@@ -1,4 +1,15 @@
-# `errgethttp`
+# `artlink icp motoko rest api endpoints`
+
+### /allTransactions GET Endpoint
+![image](https://github.com/user-attachments/assets/9fdad758-b74d-4cee-be13-ea91c6bdd427)
+
+### /generate (generate transaction hashes) GET Endpoint
+![image](https://github.com/user-attachments/assets/d961467d-d8fc-4fc6-8463-ecac6a009290)
+
+### /verify (verify transaction hashes) GET Endpoint
+(valid hash example)![image](https://github.com/user-attachments/assets/ddf04397-c7a1-4114-92cc-e286d10d62ec)
+(invalid hash example)![image](https://github.com/user-attachments/assets/39cc9a36-e4d3-49ec-814b-835991b59ee2)
+
 
 Welcome to your new `errgethttp` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
